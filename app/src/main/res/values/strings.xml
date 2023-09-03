@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Combineproject</string>
+    <string name="new_activity">New Activity</string>
+    <string name="main_activity">Main activity</string>
+</resources>
